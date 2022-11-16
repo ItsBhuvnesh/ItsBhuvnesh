@@ -76,6 +76,10 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/iambhuv/iambhuv/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
 ## Profile Visits
 
 ###
