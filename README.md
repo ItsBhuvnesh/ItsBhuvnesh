@@ -6,8 +6,6 @@
 
 ###
 
-### Only few of my repo is public, So don't judge me for what you see!
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" width="42" alt="android logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" width="42" alt="apple logo"  />
